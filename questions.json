@@ -1,0 +1,5 @@
+[
+  {"question": "What is your name?", "type": "input"},
+  {"question": "Are you working", "type": "select", "answers": ["yes", "no"]},
+  {"question": "Will you be on occupation on Saturday?", "type": "select", "answers": ["yes", "no", "maybe"]}
+]
